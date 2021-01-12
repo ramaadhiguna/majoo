@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/majoo/static/css/main.1d99bac7.chunk.css",
-    "main.js": "/majoo/static/js/main.9531b3c2.chunk.js",
-    "main.js.map": "/majoo/static/js/main.9531b3c2.chunk.js.map",
+    "main.js": "/majoo/static/js/main.4721c5f7.chunk.js",
+    "main.js.map": "/majoo/static/js/main.4721c5f7.chunk.js.map",
     "runtime-main.js": "/majoo/static/js/runtime-main.a46e32ff.js",
     "runtime-main.js.map": "/majoo/static/js/runtime-main.a46e32ff.js.map",
     "static/css/2.f0785429.chunk.css": "/majoo/static/css/2.f0785429.chunk.css",
     "static/js/2.5e83254e.chunk.js": "/majoo/static/js/2.5e83254e.chunk.js",
     "static/js/2.5e83254e.chunk.js.map": "/majoo/static/js/2.5e83254e.chunk.js.map",
     "index.html": "/majoo/index.html",
-    "precache-manifest.0a099850d2f1185d19fa33ad87afe73f.js": "/majoo/precache-manifest.0a099850d2f1185d19fa33ad87afe73f.js",
+    "precache-manifest.bb64d51b868c1b4f49227360d0bc0e1c.js": "/majoo/precache-manifest.bb64d51b868c1b4f49227360d0bc0e1c.js",
     "service-worker.js": "/majoo/service-worker.js",
     "static/css/2.f0785429.chunk.css.map": "/majoo/static/css/2.f0785429.chunk.css.map",
     "static/css/main.1d99bac7.chunk.css.map": "/majoo/static/css/main.1d99bac7.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.f0785429.chunk.css",
     "static/js/2.5e83254e.chunk.js",
     "static/css/main.1d99bac7.chunk.css",
-    "static/js/main.9531b3c2.chunk.js"
+    "static/js/main.4721c5f7.chunk.js"
   ]
 }

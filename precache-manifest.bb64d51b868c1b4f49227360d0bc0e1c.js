@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "501e2955b7c11f44608b15e775e6c219",
+    "revision": "cace9905e0f35db7b870af1b630a0291",
     "url": "/majoo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/majoo/static/css/2.f0785429.chunk.css"
   },
   {
-    "revision": "75dc99dff4478206181f",
+    "revision": "9f4c413e58ba80b4228f",
     "url": "/majoo/static/css/main.1d99bac7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/majoo/static/js/2.5e83254e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "75dc99dff4478206181f",
-    "url": "/majoo/static/js/main.9531b3c2.chunk.js"
+    "revision": "9f4c413e58ba80b4228f",
+    "url": "/majoo/static/js/main.4721c5f7.chunk.js"
   },
   {
     "revision": "3062cd963f5f3e06b5eb",
